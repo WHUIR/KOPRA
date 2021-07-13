@@ -4,10 +4,10 @@ Open resource for paper [Joint Knowledge Pruning and Recurrent Graph Convolution
 
 ## Requirement
 
-> Python: 3.8
-> Pytoch: 1.6
-> cuda: 10.1
-> DGL: dgl-cu101
+> Python: 3.8  
+> Pytoch: 1.6  
+> cuda: 10.1  
+> DGL: dgl-cu101  
 
 ## Dataset
 
