@@ -13,9 +13,7 @@ Open resource for paper [Joint Knowledge Pruning and Recurrent Graph Convolution
 
 We use a real-world news dataset provided by Microsoft Research Asia(MIND), 2020, and a norwegian News dataset, 2006(Adressa).
 Moreover, we also disclose the knowledge graphs of these two datasets to support further research.
+The KGs are in Graph.zip.
 
-## Code
-
-
-
-> Data and coda will be uploaded in the near future.
+The raw datasets have been open source and can be obtained from the links mentioned in the paper.
+And the logic of KG filtering we use is Liu's work in [NewsGraphRec](https://github.com/danyang-liu/NewsGraphRec).
