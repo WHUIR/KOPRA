@@ -1,6 +1,6 @@
 # KOPRA
 
-Open resource for paper [Joint Knowledge Pruning and Recurrent Graph Convolution forNews Recommendation](chrome-extension://bocbaocobfecmglnmeaeppambideimao/pdf/viewer.html?file=https%3A%2F%2Fyuh-yang.github.io%2Fresources%2Fkopra.pdf)
+Open resource for paper Joint Knowledge Pruning and Recurrent Graph Convolution for News Recommendation.
 
 ## Requirement
 
